@@ -21,7 +21,7 @@ if (navigator.geolocation) {
     },
     () => {
       alert(
-        `Vous avez refusé la géolocalisation, comment vous donnez la météo de votre ville sans savoir où vous êtes ? 😓`
+        `Vous avez refusé la géolocalisation, comment vous donner la météo de votre ville sans savoir où vous êtes ? 😓`
       );
     }
   );
